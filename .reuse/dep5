@@ -1,8 +1,8 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: YOUR-REPOSITORY
-Upstream-Contact: NAME SURNAME (EMAIL)
-Source: https://github.com/sap-docs/YOUR-REPOSITORY
+Upstream-Name: api-style-guide
+Upstream-Contact: Michelle Kemp-Nordell (michelle.kemp-nordell@sap.com)
+Source: https://github.com/sap-docs/api-style-guide
 
 Files: *
-Copyright:  2021 SAP SE or an SAP affiliate company and YOUR-REPOSITORY contributors
+Copyright:  2022 SAP SE or an SAP affiliate company and api-style-guide contributors
 License: CC-BY-4.0
