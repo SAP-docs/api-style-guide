@@ -2,7 +2,7 @@
 
 # SAP API Style Guide
 
-This style guide helps you understand how to write API documentation in a consistent way, to help developers use them to extend SAP products, and build their applications on top of SAP's technology stack.
+This style guide helps you understand how to write API documentation in a consistent way, to help developers use them to extend SAP products, and build their applications on top of SAP's technology stack. 
 
 
 
