@@ -66,6 +66,8 @@ An explanation of what the operation does, and its usage specifics, if any. It a
 > ### Note:  
 > Avoid starting the description with "this operation/method"; rather start directly with a verb in the third-person form: adds, creates, updates, sets, saves, reads, represents, gets, returns, deletes, and so on.
 
+Do not repeat or start the description with the summary description. This description continues the explanation of what the operation does . If you do not need to provide more information, do not add a description.
+
 
 
 </td>

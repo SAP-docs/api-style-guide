@@ -1,4 +1,4 @@
-[![REUSE status]()]()
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-docs/api-style-guide)](https://api.reuse.software/info/github.com/SAP-docs/api-style-guide)
 
 # Contributions to SAP API Style Guide
 

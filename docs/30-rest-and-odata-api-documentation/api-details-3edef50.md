@@ -43,7 +43,7 @@ Description
 </td>
 <td valign="top">
 
-The name of the API. Must not exceed 80 characters.
+The name of the API. The length of the name must not exceed 80 characters.
 
 
 

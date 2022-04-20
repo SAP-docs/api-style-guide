@@ -271,7 +271,7 @@ The UA developer reflects the product owner's decision in the UA deliverables.
 **In the SAP API Business Hub \(REST APIs\)**
 
 -   Review the language in the `notes` property of the change log.
--   Remove the documentation of the decommissioned version from the SAP API Business Hub and archive it on the SAP Help Portal.
+-   Remove the link to the Help Portal documentation of the decommissioned version from the SAP API Business Hub, add *Decommissioned* to the title of your topic, and archive the topic somewhere in your documentation set.
 
 **In an API Reference \(other APIs\)**
 
