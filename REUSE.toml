@@ -1,0 +1,10 @@
+version = 1
+SPDX-PackageName = "api-style-guide"
+SPDX-PackageSupplier = "Michelle Kemp-Nordell (michelle.kemp-nordell@sap.com)"
+SPDX-PackageDownloadLocation = "https://github.com/sap-docs/api-style-guide"
+
+[[annotations]]
+path = "**"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2022 SAP SE or an SAP affiliate company and api-style-guide contributors"
+SPDX-License-Identifier = "CC-BY-4.0"
